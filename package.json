@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "preview": "vite preview --port 3000",
-    "build": "vite build"
+    "build": "vite build --base=/tailwindCSS/"
   },
   "author": "Saad Khurshid",
   "license": "ISC",
