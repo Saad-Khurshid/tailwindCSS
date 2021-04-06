@@ -1,0 +1,19 @@
+{
+  "name": "tailwindcss-hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview --port 3000",
+    "build": "vite build"
+  },
+  "author": "Saad Khurshid",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.9",
+    "tailwindcss": "^2.0.4",
+    "vite": "^2.1.5"
+  }
+}
